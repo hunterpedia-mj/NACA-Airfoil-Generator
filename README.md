@@ -50,7 +50,7 @@ This application allows users to input a NACA airfoil code, chord length, and po
 
 ### Generated Airfoil
 
-![Generated Airfoil](example 1.png)
+![Generated Airfoil](airfoil_2.png)
 
 ---
 
